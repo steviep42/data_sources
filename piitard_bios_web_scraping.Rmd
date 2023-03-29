@@ -1,5 +1,6 @@
 ---
 title: "Web Scraping with R"
+author: "Steve Pittard"
 output:
   html_document:
     df_print: paged
